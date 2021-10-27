@@ -24,7 +24,7 @@ It is my first project in microverse. In this project I Created has a new GitHub
 
 ## 🤝 Contributing
 
-Any type of contribution will be appreciate.
+Any type of contribution will be appreciated.
 
 Feel free to check the [issues page](../../issues/).
 
