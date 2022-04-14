@@ -12,7 +12,7 @@ the Above image is the screen shot of the project.
 
 ## Getting Started
 
-It is my first project in microverse. In this project I Created has a new GitHub repo named it Hello-World, and a new branch according to the GitHub flow with one .gitignore file.
+It is my first project in microverse. In this project I Created a new GitHub repo named it Hello-World, and a new branch according to the GitHub flow with one .gitignore file and adding node_modules file to .gitignore to not add the dependencies to the project.
 
 ## Authors
 
